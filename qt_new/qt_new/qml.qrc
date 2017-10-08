@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resource/login.png</file>
+        <file>resource/logo.png</file>
+        <file>resource/restart.png</file>
+        <file>resource/shutdown.png</file>
+    </qresource>
+</RCC>
